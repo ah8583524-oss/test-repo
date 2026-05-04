@@ -1,2 +1,1 @@
-Hello GitHub!
-This line is added by Ertaza Tanbir and he is a web developer
+This Code is written by Ertaza Tanbir && Ertaza Tanbir is a Software Developer.
